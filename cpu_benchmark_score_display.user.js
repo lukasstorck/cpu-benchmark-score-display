@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Geizhals CPU benchmark Scores
 // @namespace    geihhals_cpu_benchmark_scores
-// @version      1.0
+// @version      1.1
 // @description  Adds CPU benchmark scores from CPUBenchmark to Geizhals product listings
 // @match        https://geizhals.de/*
 // @source       https://github.com/lukasstorck/cpu-benchmark-score-display/raw/refs/heads/main/cpu_benchmark_score_display.user.js
